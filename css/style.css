@@ -67,6 +67,14 @@ textarea {
   text-transform: uppercase;
   letter-spacing: 3px;
   text-align: center; }
+
+  .heading-secondary {
+    font-size: 3rem;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-align: center;
+  }
+
   @media only screen and (max-width: 37.5em) {
     .heading-primary {
       font-size: 4.5rem; } }
@@ -641,7 +649,7 @@ textarea {
     margin-top: 2rem; }
   .main-footer__icon {
     margin-right: 1rem;
-    width: 2.5rem; }
+    width: 4.5rem; }
     .main-footer__icon--mr-none {
       margin-right: 0; }
   .main-footer__lower {
